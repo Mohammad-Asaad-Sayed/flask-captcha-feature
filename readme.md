@@ -18,7 +18,7 @@ A secure web application built with Flask to validate CAPTCHA inputs using flask
 - **CAPTCHA**: flask-session-captcha
 - **Database**: MongoDB (for session storage)
 - **Templating**: Jinja2
-- **Containerization**: Docker
+
 
 ### 📂 Project Structure
 ```
