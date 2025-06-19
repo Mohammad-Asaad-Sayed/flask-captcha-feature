@@ -31,8 +31,6 @@ flask-captcha-app/
 │   └── styles.css
 ├── app.py                 # Main application logic
 ├── requirements.txt       # Python dependencies
-├── Dockerfile             # Docker configuration
-├── docker-compose.yml     # For MongoDB + App setup
 └── README.md              # Project documentation
 ```
 
