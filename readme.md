@@ -11,7 +11,6 @@ A secure web application built with Flask to validate CAPTCHA inputs using flask
 - 🔐 Server-side session management with MongoDB
 - ⚙️ Easy integration with existing Flask forms
 - 🧪 Clear success/failure feedback upon submission
-- 🐳 Docker support for easy deployment
 - 🌐 Configurable CAPTCHA settings
 
 ### 🏗️ Tech Stack
